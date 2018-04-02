@@ -1,0 +1,9 @@
+5 March 2018
+Author: SrA Enderle
+--------------
++ Patched issue with default locations dropdown not displaying the correct location.
+
+2 Feb 2018
+Author: SrA Enderle
+--------------
++ Initial public release
